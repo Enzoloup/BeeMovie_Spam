@@ -1,4 +1,4 @@
-# BeeMovie_Spam
+# BeeMovie Spam
 <p align="center">a href=""><img src="https://i.imgur.com/GMuHqKA.jpg" width="400" height="200"></a></p>
 <p align="center">
   <a href="https://github.com/Enzoloup/BeeMovie_Spam">
