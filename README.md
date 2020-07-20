@@ -18,6 +18,6 @@ $ pip install -i https://test.pypi.org/simple/ beemoviespam-pkg-enzoloup
 ```
 or
 ```sh
-$ pip install -i https://test.pypi.org/simple/ beemoviespam-pkg-enzoloup
+$ pip3 install -i https://test.pypi.org/simple/ beemoviespam-pkg-enzoloup
 ```
 
